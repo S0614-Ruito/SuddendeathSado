@@ -2,7 +2,7 @@
 
 int main()
 {
-    const int isTheEarthIsFlat = 1;
+    const int isTheEarthIsFlat = 0;
 
     if (isTheEarthIsFlat)
         printf("It is true that the earth is flat.");
